@@ -18,5 +18,8 @@ function johnLennonFacts(facts){
 }
 
 function iLoveTheBeatles(num){
+  let emptyArray = [];
+  let i = 0;
   do{
 }
+while (num < 15)
