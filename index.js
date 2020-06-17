@@ -10,6 +10,8 @@ function theBeatlesPlay(array1, array2){
 function johnLennonFacts(facts){
   let newArray = [];
   while (i < facts.length){
-    newArray.push(facts[i] + "!!!")
+    newArray.push(facts[i] + "!!!");
+    i++;
   }
+  return newArray;
 }
