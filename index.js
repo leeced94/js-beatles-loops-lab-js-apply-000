@@ -6,3 +6,7 @@ function theBeatlesPlay(array1, array2){
   }
   return newArray;
 }
+
+function johnLennonFacts(facts){
+  let newArray = [];
+}
